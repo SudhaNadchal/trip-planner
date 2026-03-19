@@ -7,3 +7,7 @@ python3 -m pip install -r requirements.txt
 
 To launch the app:
 streamlit run travelapp.py
+
+
+Try it out here:
+https://sudhanadchal-trip-planner-travelapp-gsv7qe.streamlit.app/
